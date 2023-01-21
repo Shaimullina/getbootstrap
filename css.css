@@ -68,3 +68,47 @@ background: #212529;
     font-size: 16px;
     color: #868e96;
  }
+
+ .btn-btn-primary {
+
+background-color: blue;
+color:aliceblue;
+ }
+
+ .btn-btn-secondary{
+   background-color: rgb(83, 83, 84);
+   color:aliceblue;
+ }
+
+ .btn-btn-success {
+   background-color: #498e49;
+   color:aliceblue;
+ }
+.btn-btn-danger{
+   background-color: #e13434;
+   color:aliceblue;
+}
+
+.btn-btn-warning{
+   background-color: #7f7e30;
+   color:rgb(0, 0, 0);
+}
+
+.btn-btn-info{
+   background-color: #34d8e1fa;
+   color:rgb(0, 0, 0);
+}
+
+.btn-btn-light {
+   background-color:aliceblue;
+   color:rgb(0, 0, 0);
+}
+
+.btn-btn-dark{
+   background-color:rgb(10, 10, 10);
+   color:aliceblue;
+}
+.button {
+   color: aliceblue;
+   font-size: 16px;
+}
